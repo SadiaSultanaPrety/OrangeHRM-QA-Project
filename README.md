@@ -15,7 +15,8 @@ To evaluate the **functional behavior, usability, and stability** of the OrangeH
 - ✅ Admin
 - ✅ PIM (Personnel Information Management)
 - ✅ Leave
-- ✅ Recruitment 
+- ✅ Recruitment
+- ✅ Dashboard 
 - ✅ Logout
  
 
