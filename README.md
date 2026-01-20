@@ -25,7 +25,7 @@ Click on the links below to view specific test documents:
 
 | # | Document | Description |
 | :--- | :--- | :--- |
-| 01 | [Test Plan](./01_Test-Plan) | Scope, Exit/Entry Criteria, Strategy, and Risks. |
+| 01 | [Test Plan](.OrangeHRM-QA-Project/01_Test-Plan) | Scope, Exit/Entry Criteria, Strategy, and Risks. |
 | 02 | [Test Cases](./02_Test-Cases) | Step-by-step cases with Expected vs Actual results. |
 | 03 | [Test Execution](./03_Test-Execution) | Record of Passed, Failed, and Blocked test runs. |
 | 04 | [Bug Reports](./04_Bug-Reports) | Detailed defect logs with severity and priority. |
