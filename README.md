@@ -25,12 +25,12 @@ Click on the links below to view specific test documents:
 
 | # | Document | Description |
 | :--- | :--- | :--- |
-| 01 | [Test Plan](.OrangeHRM-QA-Project/01_Test-Plan) | Scope, Exit/Entry Criteria, Strategy, and Risks. |
-| 02 | [Test Cases](./02_Test-Cases) | Step-by-step cases with Expected vs Actual results. |
-| 03 | [Test Execution](./03_Test-Execution) | Record of Passed, Failed, and Blocked test runs. |
-| 04 | [Bug Reports](./04_Bug-Reports) | Detailed defect logs with severity and priority. |
-| 05 | [Screenshots](./05_Screenshots) | Evidence of failed cases and UI validations. |
-| 06 | [Summary Report](./06_Summary-Reports) | Final execution metrics and sign-off status. |
+| 01 | [Test Plan](.OrangeHRM_Test_Plan.docx/01_Test-Plan) | Scope, Exit/Entry Criteria, Strategy, and Risks. |
+| 02 | [Test Cases](.OrangeHRM-TestCase.xlsx/02_Test-Cases) | Step-by-step cases with Expected vs Actual results. |
+| 03 | [Test Execution](.OrangeHRM-TestExecution-Result.xlsx/03_Test-Execution) | Record of Passed, Failed, and Blocked test runs. |
+| 04 | [Bug Reports](.OrangeHRM-BugReport.xlsx/04_Bug-Reports) | Detailed defect logs with severity and priority. |
+| 05 | [Screenshots](.Bug-Screenshots/05_Screenshots) | Evidence of failed cases and UI validations. |
+| 06 | [Summary Report](.OrangeHRM-TestSummary-Report.xlsx/06_Summary-Reports) | Final execution metrics and sign-off status. |
 
 ---
 
